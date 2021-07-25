@@ -7,8 +7,8 @@
 **About**
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
--  **Languages :** PHP, JavaScript, Python, Go
--  **Hobbies :** Basketball :basketball: & Music :headphones:
--  **Fact :** First solve the problem, then write the code :heart:
--  **Contact me :** [WangNingkai](mailto:i@ningkai.wang)
+-  **Languages :** TypeScript, JavaScript, Pytho
+-  **Hobbies :** Music :headphones:
+-  **Fact :** Every time to write bug :heart:
+-  **Contact me :** [WangNingkai](mailto:732039303@qq.com)
 
