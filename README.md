@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+👋 Hi, I'm WangNingkai,a passionate self-taught backend developer from China 🚀.
 <br/>
 
 [![notfound945's github stats](https://github-readme-stats.vercel.app/api?username=notfound945&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/notfound945)  
