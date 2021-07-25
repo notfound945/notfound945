@@ -10,6 +10,6 @@ I'm notfound945,a passionate self-taught frontend developer from China 🚀.
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
 -  **Languages :** TypeScript, JavaScript, Python, Go
 -  **Hobbies :** Music :headphones:
--  **Fact :** Every time to write bug :debug:
+-  **Fact :** Every time to write bug :bug:
 -  **Contact me :** [notfound945](mailto:732039303@qq.com)
 
