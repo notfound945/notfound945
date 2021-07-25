@@ -7,7 +7,7 @@
 **About**
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
--  **Languages :** TypeScript, JavaScript, Pytho
+-  **Languages :** TypeScript, JavaScript, Python, Go
 -  **Hobbies :** Music :headphones:
 -  **Fact :** Every time to write bug :heart:
 -  **Contact me :** [notfound945](mailto:732039303@qq.com)
