@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm notfound945,a passionate self-taught frontend developer from China 🚀.
+I'm notfound945,a passionate self-taught frontend developer from China 🚀 :cn:.
 <br/>
 
 [![notfound945's github stats](https://github-readme-stats.vercel.app/api?username=notfound945&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/notfound945)  
